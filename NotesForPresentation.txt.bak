@@ -1,0 +1,21 @@
+Question: 
+
+1. What is the unit for the duration? 
+2. Need to understand these 2 features: PageValue and specialday
+3. Why there are 20 traffic types when Google analytics defines only 5 type?
+4. What it mean by "Other" visitortype? Why it can't be considered as NEW_VISITOR?
+
+Box Plot
+More time spent on the information gives more revenue
+More the bounce rate more the chances that user not buy
+more the exit more the chances the user value won't buy
+Page value is very important variable to decide the revenue
+Region is not affacting the revenue
+
+Maxs number of users are from OS 2 (54%) has very good coversion rate (~20% / 17%)
+
+Correlation
+Bounce rate and exit rate are closely correlated
+Time duration is correlated with corresponding page 
+Sales Revenue is good in November and May
+ 
